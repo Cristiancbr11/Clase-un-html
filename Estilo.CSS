@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-size: 50px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color: aquamarine;
+}
+
+#Cristiancbr{
+   color: rgba(125, 40, 221, 0.329);
+}
+
+.parrafo{
+    color: white;
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
